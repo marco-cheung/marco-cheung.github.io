@@ -17,7 +17,7 @@ timezone: Asia/Hong_Kong
 # --------------------------
 title:  Betty & Marco's learning notes    # the main title
 
-tagline: Love to learn, learn to love  # it will display as the sub-title
+tagline: Love to learn, learn to love.  # it will display as the sub-title
 
 
 description: >-                        # used by seo meta and the atom feed
