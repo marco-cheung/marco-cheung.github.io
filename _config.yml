@@ -48,8 +48,8 @@ social:
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
 
-google_analytics:
-  id: 'G-L3PG1QRWPH'              # fill in your Google Analytics ID
+google_analytics: <G-L3PG1QRWPH>
+  id: ''              # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
