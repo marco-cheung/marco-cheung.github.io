@@ -34,8 +34,8 @@ _在慕尼黑皇家啤酒屋初次食德國菜_
 
 另外還有款德國麵糰/餃子，叫做馬鈴薯丸子(Knödel)，其中我們在南德較常見的，是麵包丸子(Semmelknödel)。吃起來煙煙韌韌，多數作為side dish搭配炸肉排(Schnitzel)或烤豬腩仔(Schweinsbraten)等肉食。
 
-雖則這趟度蜜月是十月出發，可惜跟德國慕尼黑十月啤酒節緣慳一面。不過我們總算品嚐了南部一些特色地方菜，例如德國豬腳(Schweinshaxe)、火焰薄餅(Flammkuchen)、Zwiebelkuchen(洋蔥餅)配羽毛酒(Federweißer)。
+這趟度蜜月雖是十月出發，可惜跟德國慕尼黑十月啤酒節緣慳一面。不過我們總算品嚐了南部一些特色地方菜，例如德國豬腳(Schweinshaxe)、火焰薄餅(Flammkuchen)、Zwiebelkuchen(洋蔥餅)配羽毛酒(Federweißer)。
 
 對於德國菜的整體評價是：好食不好看，實而不華。無論如何，德國應不至於是美食地獄吧。
 
-(後記：西營盤有間[餐廳](https://www.offtownkitchen.com)主打法德農村菜，最近我倆去了食「Guinness燉牛面配Homemade Spätzle」，一解對Spätzle「舌尖上的鄉愁」，只是份量沒德國餐廳食到的大份。味道不俗，價錢合理($108)，值得一試。)
+(後記：西營盤有間[餐廳](https://www.offtownkitchen.com)主打法德農村菜，最近我倆去了食「Guinness燉牛面配Homemade Spätzle」，一解對Spätzle「舌尖上的鄉愁」。份量雖則沒德國餐廳食到的大份，但味道不俗，價錢又合理($108)，值得一試。)
