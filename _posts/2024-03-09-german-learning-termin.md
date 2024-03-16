@@ -1,5 +1,5 @@
 ---
-title: 德文關鍵字 - 「約定」
+title: 德文關鍵字 - 「預約」(der Termin)
 author: Marco Cheung
 date: 2024-03-09 18:00:00 +0800
 categories: [學習德文]
@@ -21,16 +21,16 @@ tags: [德文]
 - Ich denke, es wäre gut, wenn wir darüber persönlich treffen. Wie wäre der 10. März für dich?
 
 
-<u>確認約定 (Termin beschäftigen)</u>
+<u>確認預約 (Termin beschäftigen)</u>
 - Klar, gerne!
 
 
-<u>延遲約定 (Termin verschieben)</u>
+<u>延遲預約 (Termin verschieben)</u>
 - Ich wurde gerne meinen Termin (von Montag auf Mittwoch) verschieben.
 - Ich wurde gerne meine Termin vom 10.3. auf den 12.3. verschieben.
 
 
-<u>取消約會 (Termin absagen)</u>
+<u>取消預約 (Termin absagen)</u>
 - Leider muss ich den Termin (für Morgen um 16 Uhr) absagen, weil ich krank bin. Für einen neuen Termin melde ich mich bei Ihnen, sobald ich wieder gesund bin.
 - Leider kann ich nicht zum Termin erscheinen.
 - Leider muss ich den vereinbarten Termin ausfallen lassen.
@@ -53,7 +53,7 @@ tags: [德文]
 - Entschuldige bitte, aber ich komme 10 Minuten später, weil die Bahn ausgefallen ist.
 - Entschuldige bitte, aber ich verspäte mich um 10 Minuten, da ich den Bus verpasst habe.
 
-若要拒絕約會，可以說：
+若要拒絕約定，可以說：
 - Ich schaffe es heute leider nicht. Können wir unsere Verabredung verschieben? Wie siehst es am Samstag um 15 Uhr bei dir aus?
 - Normalerweise gerne, aber morgen früh bin ich leider schon verplant. Aber wie wäre es, wenn wir uns übermorgen treffen?
 - Es tut mir leid, aber morgen habe ich schon etwas vor. Aber wie sieht es übermorgen bei dir aus?
