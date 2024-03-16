@@ -16,7 +16,8 @@ tags: [德文]
 - Ich wurde gern einen Termin vereinbaren/ ausmachen. Ist am 18. März noch etwas frei?
 - Hätten Sie vielleicht am Montag, den 10. März um 16 Uhr Zeit, um über unseren Reiseplan zu sprechen?
 - Wäre es Ihnen möglich, am 10. März zu uns zu kommen, um über den Vertrag zu gehen?
-- Können/ Sollen wir uns nächsten Montag um 16 Uhr auf einen Kaffee treffen, um alles Weitere zu besprechen?
+- Können/ Sollen wir uns nächsten Montag um 16 Uhr auf einen Kaffee treffen, um alles detailliert zu besprechen? (Zeitlich bin ich flexibel.)
+- Ich denke, es wäre gut, wenn wir darüber persönlich treffen. Wie wäre der 10. März für dich?
 
 <u>確認約定 (Termin beschäftigen)</u>
 Klar, gerne!
@@ -36,8 +37,8 @@ Klar, gerne!
 當提出取消約會後，可以提出反建議(Gegenvorschlag)：
 - Könnten wir den Termin an einem anderen Tag nachholen? (可不可以約第日catch-up?)
 
-
-另外，有個德文字跟Termin意思很相似，它就是Verabredung。唯兩者最大分別，是Verabredung只會在非正式場合 (inoffizielle Situation)才會使用，例如朋友和親人之間。
+[非正式場合] (inoffizielle Situation)
+另外，有個德文字跟Termin意思很相似，它就是Verabredung。唯兩者最大分別，是Verabredung只會在非正式場合 才會使用，例如朋友和親人之間。
 - Hey/Hallo, hast/hättest du morgen Zeit?  (Warte kurz, ich schaue in meinem Kalender nach.)
 - Hättest du morgen Zeit und Lust, dich mit mir auf eine Kaffee zu treffen?
 - Sollen wir uns morgen im Park treffen?  *=> Natürlich! Morgen um 10 Uhr im Park klingt super!*
@@ -52,4 +53,5 @@ Klar, gerne!
 - Normalerweise gerne, aber morgen früh bin ich leider schon verplant. Aber wie wäre es, wenn wir uns übermorgen treffen?
 - Es tut mir leid, aber morgen habe ich schon etwas vor. Aber wie sieht es übermorgen bei dir aus?
 - Passt dir auch Samstag um 15 Uhr?  *=> Samstag, 15 Uhr passt.*
+- Passt dir der 13.03. um 17 Uhr?
 - Hättest du eventuell morgen Zeit?
