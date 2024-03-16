@@ -10,7 +10,8 @@ tags: [德文]
 
 記得以前德文老師分享如何學習生字，其中時常提到的，就是注意不同字詞多數有固定「搭配」(Kollokation)。以「預約」為例，可以是*安排*預約、*確認*預約、*延遲*預約、*取消*預約。此外，還要注意formal和informal情況下的不同表達方式，以示對別人尊重和禮貌。
 
-[正式場合] (offizielle Situation)
+# 正式場合 (offizielle Situation)
+
 <u>安排預約 (einen Termin vereinbaren)</u>
 - Ich hätte gern (für Montag, den 18. März um 16 Uhr,) einen Termin.
 - Ich wurde gern einen Termin vereinbaren/ ausmachen. Ist am 18. März noch etwas frei?
@@ -19,12 +20,15 @@ tags: [德文]
 - Können/ Sollen wir uns nächsten Montag um 16 Uhr auf einen Kaffee treffen, um alles detailliert zu besprechen? (Zeitlich bin ich flexibel.)
 - Ich denke, es wäre gut, wenn wir darüber persönlich treffen. Wie wäre der 10. März für dich?
 
+
 <u>確認約定 (Termin beschäftigen)</u>
-Klar, gerne!
+- Klar, gerne!
+
 
 <u>延遲約定 (Termin verschieben)</u>
 - Ich wurde gerne meinen Termin (von Montag auf Mittwoch) verschieben.
 - Ich wurde gerne meine Termin vom 10.3. auf den 12.3. verschieben.
+
 
 <u>取消約會 (Termin absagen)</u>
 - Leider muss ich den Termin (für Morgen um 16 Uhr) absagen, weil ich krank bin. Für einen neuen Termin melde ich mich bei Ihnen, sobald ich wieder gesund bin.
@@ -34,10 +38,11 @@ Klar, gerne!
 - Daher kann ich unseren vereinbarten Termin leider/bedauerlicheweise nicht wahrnehmen.
 - Mir ist etwas dazwischengekommen. (我臨時有啲事)
 
-當提出取消約會後，可以提出反建議(Gegenvorschlag)：
+當提出取消約會後，可提出反建議(Gegenvorschlag)：
 - Könnten wir den Termin an einem anderen Tag nachholen? (可不可以約第日catch-up?)
 
-[非正式場合] (inoffizielle Situation)
+
+# 非正式場合 (inoffizielle Situation)
 另外，有個德文字跟Termin意思很相似，它就是Verabredung。唯兩者最大分別，是Verabredung只會在非正式場合 才會使用，例如朋友和親人之間。
 - Hey/Hallo, hast/hättest du morgen Zeit?  (Warte kurz, ich schaue in meinem Kalender nach.)
 - Hättest du morgen Zeit und Lust, dich mit mir auf eine Kaffee zu treffen?
