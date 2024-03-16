@@ -33,15 +33,23 @@ Klar, gerne!
 - Daher kann ich unseren vereinbarten Termin leider/bedauerlicheweise nicht wahrnehmen.
 - Mir ist etwas dazwischengekommen. (我臨時有啲事)
 
-當提出取消約會後，還可以這樣說：
+當提出取消約會後，可以提出反建議(Gegenvorschlag)：
 - Könnten wir den Termin an einem anderen Tag nachholen? (可不可以約第日catch-up?)
 
 
 另外，有個德文字跟Termin意思很相似，它就是Verabredung。唯兩者最大分別，是Verabredung只會在非正式場合 (inoffizielle Situation)才會使用，例如朋友和親人之間。
 - Hey/Hallo, hast/hättest du morgen Zeit?  (Warte kurz, ich schaue in meinem Kalender nach.)
-- Sollen wir uns morgen im Park treffen?
-- Was hältst du davon, wenn wir uns morgen um 10 Uhr (zum Laufen/ zum Kaffeetrinken/ in der Stadt) treffen?
+- Hättest du morgen Zeit und Lust, dich mit mir auf eine Kaffee zu treffen?
+- Sollen wir uns morgen im Park treffen?  *=> Natürlich! Morgen um 10 Uhr im Park klingt super!*
+- Was hältst du davon, wenn wir uns morgen um 10 Uhr (zum Laufen/ zum Frühstücken/ in der Stadt) treffen?
 
 若是赴會遲到，可以說：
-- Entschuldige bitte, aber ich komme 10 Minuten später.
-- Entschuldige bitte, aber ich verspäte mich um 10 Minuten.
+- Entschuldige bitte, aber ich komme 10 Minuten später, weil die Bahn ausgefallen ist.
+- Entschuldige bitte, aber ich verspäte mich um 10 Minuten, da ich den Bus verpasst habe.
+
+若要拒絕約會，可以說：
+- Ich schaffe es heute leider nicht. Können wir unsere Verabredung verschieben? Wie siehst es am Samstag um 15 Uhr bei dir aus?
+- Normalerweise gerne, aber morgen früh bin ich leider schon verplant. Aber wie wäre es, wenn wir uns übermorgen treffen?
+- Es tut mir leid, aber morgen habe ich schon etwas vor. Aber wie sieht es übermorgen bei dir aus?
+- Passt dir auch Samstag um 15 Uhr?  *=> Samstag, 15 Uhr passt.*
+- Hättest du eventuell morgen Zeit?
