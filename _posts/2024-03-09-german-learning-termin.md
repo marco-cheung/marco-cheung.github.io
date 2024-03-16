@@ -16,23 +16,30 @@ tags: [德文]
 - Ich hätte gern (für Montag, den 18. März um 16 Uhr,) einen Termin.
 - Ich wurde gern einen Termin vereinbaren/ ausmachen. Ist am 18. März noch etwas frei?
 - Hätten Sie vielleicht am Montag, den 10. März um 16 Uhr Zeit, um über unseren Reiseplan zu sprechen?
-- Wäre es Ihnen möglich, am 10. März zu uns zu kommen, um über den Vertrag zu gehen?
+- Wäre es Ihnen möglich, am 10.03. zu uns zu kommen, um über den Vertrag zu gehen?
+- Würden Sie am 18.03. um 16:30 Uhr bei uns vorbeikommen, um über das neue Projekt zu besprechen?
 - Können/ Sollen wir uns nächsten Montag um 16 Uhr auf einen Kaffee treffen, um alles detailliert zu besprechen? (Zeitlich bin ich flexibel.)
 - Ich denke, es wäre gut, wenn wir darüber persönlich treffen. Wie wäre der 10. März für dich?
+- Ich habe ein Online-Meeting für den 18.03. um 16:30 Uhr angesetzt. Passt das Ihnen?
 
 
 <u>確認預約 (Termin beschäftigen)</u>
-- Klar, gerne!
+- Ich bestätige gern den Termin am 10.03. Sollte Ihnen etwas dazwischenkommen, bitte informieren Sie mich so schnell wie möglich.
+- Hiermit möchte ich Ihnen den Termin am 10. März um 16 Uhr bestätigen. Ich freue mich auf unser Meeting. 
 
 
 <u>延遲預約 (Termin verschieben)</u>
 - Ich wurde gerne meinen Termin (von Montag auf Mittwoch) verschieben.
 - Ich wurde gerne meine Termin vom 10.3. auf den 12.3. verschieben.
+- Wäre es möglich, unser Treffen auf den 12.3. zu verschieben?
+- Würde es bei Ihnen eventuell auch nächste Woche gehen?
+- Könnten wir unser Meeting vielleicht auf den 12.03. verlegen?
 
 
 <u>取消預約 (Termin absagen)</u>
 - Leider muss ich den Termin (für Morgen um 16 Uhr) absagen, weil ich krank bin. Für einen neuen Termin melde ich mich bei Ihnen, sobald ich wieder gesund bin.
 - Leider kann ich nicht zum Termin erscheinen.
+- Leider kann ich den Termin nächste Woche nicht einhalten.
 - Leider muss ich den vereinbarten Termin ausfallen lassen.
 - Leider kann ich unseren Termin (am 18. März) nicht wahrnehmen, weil/da (Gründ)...
 - Daher kann ich unseren vereinbarten Termin leider/bedauerlicheweise nicht wahrnehmen.
@@ -46,8 +53,12 @@ tags: [德文]
 另外，有個德文字跟Termin意思很相似，它就是Verabredung。唯兩者最大分別，是Verabredung只會在非正式場合才會使用，例如朋友和親人之間。
 - Hey/Hallo, hast/hättest du morgen Zeit?  (Warte kurz, ich schaue in meinem Kalender nach.)
 - Hättest du morgen Zeit und Lust, dich mit mir auf eine Kaffee zu treffen?
+- Hättest du auch am 18.03. Zeit?
 - Sollen wir uns morgen im Park treffen?  *=> Natürlich! Morgen um 10 Uhr im Park klingt super!*
+- Passt dir auch Samstag um 15 Uhr?  *=> Samstag, 15 Uhr passt.* / *Der Termin geht in Ordnung. Vielen Dank.*
+- Passt dir der 13.03. um 17 Uhr?  *=> Der 13.03. passt mir gut, danke.* / *Der 13.03. passt mir nicht. Können wir einen anderen Termin ausmachen?* 
 - Was hältst du davon, wenn wir uns morgen um 10 Uhr (zum Laufen/ zum Frühstücken/ in der Stadt) treffen?
+
 
 若是赴會遲到，可以說：
 - Entschuldige bitte, aber ich komme 10 Minuten später, weil die Bahn ausgefallen ist.
@@ -57,6 +68,11 @@ tags: [德文]
 - Ich schaffe es heute leider nicht. Können wir unsere Verabredung verschieben? Wie siehst es am Samstag um 15 Uhr bei dir aus?
 - Normalerweise gerne, aber morgen früh bin ich leider schon verplant. Aber wie wäre es, wenn wir uns übermorgen treffen?
 - Es tut mir leid, aber morgen habe ich schon etwas vor. Aber wie sieht es übermorgen bei dir aus?
-- Passt dir auch Samstag um 15 Uhr?  *=> Samstag, 15 Uhr passt.*
-- Passt dir der 13.03. um 17 Uhr?
-- Hättest du eventuell morgen Zeit?
+- Montagsabend ist bei mir (eher) schlecht. Könnten wir uns am Mittwoch sehen? Da bin ich flexibel.
+- Leider bin ich am Montag nicht da. Könnten wir uns stattdessen am Montag treffen? Mit der Uhrzeit würde ich mich nach dir richten.
+
+
+參考:
+- Deutsch1 (https://www.youtube.com/watch?v=piTMqzja37k)
+- Learn German Fast (https://www.youtube.com/watch?v=y-RmFpuSX0w)
+- Dein Sprachcoach (https://www.youtube.com/watch?v=2Ze9oRepgPk)
