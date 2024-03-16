@@ -43,7 +43,7 @@ tags: [德文]
 
 
 # 非正式場合 (inoffizielle Situation)
-另外，有個德文字跟Termin意思很相似，它就是Verabredung。唯兩者最大分別，是Verabredung只會在非正式場合 才會使用，例如朋友和親人之間。
+另外，有個德文字跟Termin意思很相似，它就是Verabredung。唯兩者最大分別，是Verabredung只會在非正式場合才會使用，例如朋友和親人之間。
 - Hey/Hallo, hast/hättest du morgen Zeit?  (Warte kurz, ich schaue in meinem Kalender nach.)
 - Hättest du morgen Zeit und Lust, dich mit mir auf eine Kaffee zu treffen?
 - Sollen wir uns morgen im Park treffen?  *=> Natürlich! Morgen um 10 Uhr im Park klingt super!*
