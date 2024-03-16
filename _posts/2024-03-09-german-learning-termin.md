@@ -8,7 +8,7 @@ tags: [德文]
 
 「預約」/「約定」(der Termin)這個字，德文A1已經需要學到，只因Termin在德國生活實在太重要，這多半跟德國人守時(Pünktlichkeit)觀念不無關係。例如到外國人事務局(Ausländerbehörde)辦理居留簽証要預約、在市政廳(Bürgerämt/Bürgerbüro/Kundenzentrum)辦理戶藉(Anmeldung)等行政事務要預約，以至生病時到普通診所求診 (目前大多醫生多會預留至少半小時的「開放診症時間」(die offene Sprechstunde)，接受有需要病人walk-in)，一律需要Termin。
 
-記得以前德文老師分享如何學習生字，其中時常提到的，就是注意不同字詞多數有固定「搭配」(Kollokation)。以「預約」為例，可以是*安排*預約、*確認*預約、*延遲*預約、*取消*預約。
+記得以前德文老師分享如何學習生字，其中時常提到的，就是注意不同字詞多數有固定「搭配」(Kollokation)。以「預約」為例，可以是*安排*預約、*確認*預約、*延遲*預約、*取消*預約。此外，還要注意formal和informal情況下的不同表達方式，以示對別人尊重和禮貌。
 
 [正式場合] (offizielle Situation)
 <u>安排預約 (einen Termin vereinbaren)</u>
