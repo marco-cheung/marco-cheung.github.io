@@ -6,6 +6,9 @@ categories: [學習德文]
 tags: [德文]
 ---
 
+![gendersprache](/images/gendersprache.png.jpg){: width="400" height="300"}
+_星號是一種符號，用於使德文包容性别認同_
+
 最近德國巴伐利亞邦保守派政府簽署修訂案，規定學校、大學和政府部門在內的公共機構禁止使用性別敏感語言(geschlechtersensibler Gendersprache)，例如字詞中用以突顯性別的性別星(Gendersternchen)、雙重冒號(Doppelpunkt)等標註。據悉，這項禁令一方面是為了保障語言清晰易懂，同時避免德文因性別化(Gendern)的意識形態色彩而造成「強烈的排斥反應」(stark exkludierende Wirkung)。
 
 從文法而言，德文本身無「性別中立」可言，皆因每個名詞經已被分類為陽性、陰性或中性。打從學A1 (初階)德文開始，老師便叮囑我們，學生字除了學識點串，最好記埋「性」，因為名詞(Deklination)會根據「性」(Genus)、「數」(Numerus)、「格」(Kasus)而出現變異，與之搭配的定冠詞和形容詞等「靜詞」(相對「動詞」而言)也會連同以上三個因素而引伸各自的文法規則。
