@@ -20,7 +20,7 @@ _星號是一種符號，用來使德文包容性别認同; 圖片來源：南�
 
 日常生活中，德文更有所謂das generische Maskulinum的用法，習慣以陽性名詞作為基準詞指代全部。例如Einwohner(人口)就包括了男性和女性人口，其他例子包括Radfahrer(騎單車者)、Mitarbeiter(員工/僱員)、Lehrer(老師)、Studenten (學生)等。記得德文老師分享過，05年德國前總理默克爾上任前，歷年都是由男性擔任聯邦總理(Bundeskanzler)一職，而默克爾頭銜亦改成Bundeskanzler*in*，但她在位期間的官邸名稱，卻依然沿用Bundeskanzleramt。
 
-![radfahrer-absteigen](/images/radfahrer-absteigen.jpg){: width="400" height="300"}
+![radfahrer-absteigen](/images/radfahrer-absteigen.jpg){: width="300" height="250"}
 _圖片來源：維基(Creative Commons)_
 
 大體而言，我認為德文先天上既然並非性別中立，在非正式場合中，只要言語上不是出於惡意或含有歧視成份，在處理性別中立的人稱時，可以彈性看待，若然煞有介事在用語上過分強調性別中立，反而容易引起對方對性別定型的過分注意，適得其反。不過在正式場合，例如法律文件或官方發言時，使用性別中立語言就有其必要性。因為用詞需更加精準、謹慎和包容，說話要正字(和政治)正確，累贅一點也無傷大雅，重點是在包容性和可讀性之間取得平衡。
