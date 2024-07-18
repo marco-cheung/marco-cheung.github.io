@@ -1,5 +1,5 @@
 ---
-title: 國家名都有唔同性?
+title: 國家都有性?
 author: Marco Cheung
 date: 2024-06-17 18:00:00 +0800
 categories: [學習德文]
