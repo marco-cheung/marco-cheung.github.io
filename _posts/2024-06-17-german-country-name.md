@@ -6,7 +6,7 @@ categories: [學習德文]
 tags: [德文,性]
 ---
 
-上回談論到德文所有名詞皆有「性」，這又令我回想在歌德上A1班，要用德文做自我介紹。其中一句必學的，就是「我來自香港」(Ich komme aus Hongkong)。咁就奇怪，Hongkong在德文是中性詞，何解毋須寫成aus dem Hongkong (from THE Hong Kong)?
+上回講到德文所有名詞皆有「性」，這又令我回想在歌德上A1班，要用德文做自我介紹。其中一句必學的，就是「我來自香港」(Ich komme aus Hongkong)。咁就奇怪，Hongkong在德文是中性詞，何解毋須寫成aus dem Hongkong (from THE Hong Kong)?
 
 一於上網問下AI先：
 ![Poe](/images/poe-claude-3.5.png){: width="500" height="500"}
