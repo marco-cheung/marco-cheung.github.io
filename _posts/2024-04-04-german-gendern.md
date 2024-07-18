@@ -7,7 +7,7 @@ tags: [德文]
 ---
 
 ![gendersprache](/images/gendersprache.png){: width="500" height="400"}
-_星號是一種符號，用來使德文包容性别認同; 圖片來源：南德意志報 (Süddeutsche Zeitung)_
+_圖片來源：南德意志報 (Süddeutsche Zeitung)_
 
 
 最近德國巴伐利亞邦保守派政府簽署修訂案，規定學校、大學和政府部門在內的公共機構禁止使用性別敏感語言(geschlechtersensibler Gendersprache)，例如在名詞詞尾加插表示兩性的性別星(Gendersternchen)、雙重冒號(Doppelpunkt)等標註。據悉，這項禁令一方面是為了保障語言清晰易懂，同時避免德文因性別化(Gendern)的意識形態色彩而造成「強烈的排斥反應」(stark exkludierende Wirkung)。
