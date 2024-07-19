@@ -13,7 +13,7 @@ tags: [德文,性]
 
 簡單來說，城市名可以不必理會定冠詞(der, die, das)，不過講到地方(例如海灘，戲院、餅鋪)或國家名時，就要份外注意詞「性」了，因為通常需要配合適當定冠詞，而定冠詞亦會因應句子語法(「格」)和介詞(Präposition)運用而改變形態。
 
-好消意是，大部分國家名都是中性，而中性國家名基本上都不需定冠詞。
+好消息是，大部分國家名都是中性，而中性國家名基本上都不需定冠詞。
 
 # 陽性(der)國家名例子：
 - der Irak (伊拉克, das Irak也通用)
@@ -33,7 +33,7 @@ tags: [德文,性]
 
 例子：Ich komme aus der Schweiz. / Ich bin in der Schweiz. / Ich fliege in die Schweiz.
 
-# 眾數名詞例子：
+# 眾數國家例子：
 - die USA (=Vereinigten Staaten von Amerika) (美國)
 - die Niederlande (荷蘭)
 - die VAE (=die Vereinigten Arabischen Emirate) (阿聯酋)
