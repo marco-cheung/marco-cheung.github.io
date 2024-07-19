@@ -56,4 +56,4 @@ B: Wir verreisen nach Frankfreich. (我地去法國旅行。)
 
 如果現在有德國人問我，Woher kommst du? (你係邊度黎？)，我會答佢，Ich komme aus Hongkong (我來自香港)。
 
-如果對方有興趣，或者會講多兩嘴：Es ist eine schöne und bewegte Stadt, die eine einzigartige Mischung aus Osten und Westen bietet. Besonders bekannt ist ihre beeindruckende Skyline und ihre abwechslungsreiche Küche. (佢係一個美麗又繁忙嘅城市，提供獨特嘅東西方文化融合。佢最出名嘅係令人嘆為觀止嘅天際線同埋多姿多彩嘅美食。)
+如果對方好奇的話，或者會講多兩嘴：Es ist eine schöne und bewegte Stadt, die eine einzigartige Mischung aus Osten und Westen bietet. Besonders bekannt ist ihre beeindruckende Skyline und ihre abwechslungsreiche Küche. (佢係一個美麗又繁忙嘅城市，提供獨特嘅東西方文化融合。佢最出名嘅係令人嘆為觀止嘅天際線同埋多姿多彩嘅美食。)
