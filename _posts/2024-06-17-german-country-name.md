@@ -9,7 +9,7 @@ tags: [德文,性]
 上回講到德文所有名詞皆有「性」，令我回想在歌德上A1班學自我介紹。其中一句必學的，就是「我來自香港」(Ich komme aus Hongkong)。咁就奇怪，Hongkong在德文是中性詞，何解毋須寫成aus dem Hongkong (from THE Hong Kong)?
 
 一於上網問下AI先：
-![Poe](/images/poe-claude-3.5.png){: width="600" height="400"}
+![Poe](/images/poe-claude-3.5.png){: width="600" height="350"}
 
 簡單來說，城市名可以不必理會定冠詞(der, die, das)，不過講到地方(例如海灘，戲院、餅鋪)或國家名時，就要份外注意詞「性」了，因為通常需要配合適當定冠詞，而定冠詞亦會因應句子語法(「格」)和介詞(Präposition)運用而改變形態。
 
