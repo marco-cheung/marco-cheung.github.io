@@ -12,7 +12,7 @@ tags: [德國,朋友]
 
 以下整理了自己德文學習資源，大部分都是免費，但有少部分還是需要「貨金」(A2小組班、Seedlang@Easy German)才換取得到的。在當前信息氾濫的網絡世界，我總是認為，免費資源雖然唾手可得，但當想深一層，自己所見的，很多時都是零碎散亂的資訊，而自己要將他們在自己的「知識系統」中有系統地分類、連結和整合，才是最困難的事情。There is no such thing as a free lunch in the digital world，要不逼你看廣告，更甚是背後對你的行為進行大數據分析，2019年分析數據醜聞的紀錄片《The Great Hack》引起一時全球一時哄動，令人不得不重新審視「私隱值何價」問題和質疑Facebook等大型科企巨擘的經營手法……
 
-![german-learning-resource](/images/my-german-learning-resource.png){: width="600" height="400"}
+![german-learning-resource](/images/my-german-learning-resource.png){: width="800" height="400"}
 _德文學習資源五花八門，沒有最好，只有最適合_
 
 以下想分享的，是最近自己透過Hellotalk應用程式結交了一名德國朋友E的經歷。
