@@ -1,5 +1,5 @@
 ---
-title: [COVID-19]一圖透視全球疫情
+title: 圖析全球Covid疫情
 author: Marco Cheung
 date: 2020-03-26 18:00:00 +0800
 categories: [香港]
