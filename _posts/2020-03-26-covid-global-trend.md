@@ -21,6 +21,6 @@ _每百萬人口確診宗數_
 (截至2020-3-25)
 
 按：沈旭暉面書亦有轉載小弟製作圖表，與有榮焉
-![simon-fb-sharing](/images/simon-fb-sharing.png){: width="500" height="400"}
+![simon-fb-sharing](/images/simon-fb-sharing.png){: width="450" height="400"}
 
 #願平安歸香港
