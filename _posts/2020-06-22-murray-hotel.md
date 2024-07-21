@@ -23,13 +23,13 @@ _現時美利酒店外貌(活化後的美利大廈)_
 
 酒店外還有一處圓拱形建築，驟眼看平平無奇，原來內有乾坤，正下方連接著酒店按摩池和室內泳池。
 
-![murray-hotel-outside](/images/murray-hotel-outside.png){: width="350" height="400"}
-![murray-hotel-outside2](/images/murray-hotel-outside2.jpg){: width="350" height="400"}
-![murray-hotel-swimming-pool](/images/murray-hotel-swimming-pool.jpg){: width="350" height="400"}
+![murray-hotel-outside](/images/murray-hotel-outside.png){: width="300" height="300"}
+![murray-hotel-outside2](/images/murray-hotel-outside2.jpg){: width="300" height="300"}
+![murray-hotel-swimming-pool](/images/murray-hotel-swimming-pool.jpg){: width="300" height="300"}
 
 導賞員帶領我們上了其中一間酒店房間參觀，其中一個驚喜位是升降機內設有沙發，感覺挺貼心。酒店目前只得336個房間，但卻有8部升降機，原來是因為這裡舊時是政府辦公室，有接近3000人每天返工。上房時，有團友還戲笑大家是上樓睇示範單位呢！
 
-![murray-building-old-office-layout](/images/murray-building-old-office-layout.PNG){: width="400" height="400"}
+![murray-building-old-office-layout](/images/murray-building-old-office-layout.PNG){: width="300" height="300"}
 
 房間保留了昔日45度窗口擺位，以減少西斜光線直射入房，白色外牆同時便於採光。這簡約的節能設計令建築物早於94年已獲取能源效益獎。導賞員補充，舊時寫字樓近窗台間格較三尖八角，於是建築師在活化時把它改裝成正方形，令房間比舊時更為實用。
 
