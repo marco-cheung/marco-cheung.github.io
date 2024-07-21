@@ -12,7 +12,7 @@ tags: [香港]
 
 早前看過一本書《一人公司》(Company of One)，作者Paul Jarvis是一名網路品牌顧問，提到不少大公司試圖偽裝成小公司，刻意維持小規模經營的模式：彈性、自主、快速、簡單。傳統商業模式教導我們，如果想賺更多錢，就要不斷成長擴大業務規模，而這種成長就是「變得更大」。作者卻反覆指出，未來企業應專注於「變得更好」，而不是只想著變得更大。作者引述創業基因計劃(Startup Genome Project)一項對三千二百多間快速成長的初創科技企業的研究，發現74%的企業失敗告終的原因，正是將利潤「成長」當成首要商業策略。所謂失敗，包括經歷大規模裁員、賤賣資產，甚至面臨倒閉。
 
-![company-of-one](/images/company-of-one.png){: width="500" height="500"}
+![company-of-one](/images/company-of-one.png){: width="400" height="400"}
 _《一人公司》_
 
 回想起初加入這間電訊商時，其中一個原因是這正是大公司中衍生出來的一間小公司，感覺應該挺好玩：一來入職時只是正式開台了半年左右，二來品牌形象玩味重(chill自由)，加上電訊業坐擁多重面向的客戶數據(multi-dimensional data)，正好適合當作木人樁以加強數據分析的skill set。現實情況卻是，平日大部分工作時間花了在數據採集和「養數據」上，「用數據」做分析很多時侯變了minor task或是做reporting而已。舉例說，當Marketing Team有初步定案推出新program的時候，第一時間就要弄清楚是否牽涉新logic和mechanism，了解完數據背後操作就要寫requirement，再等IT support team排程做development，有時侯當campaign內容臨時改動，又要再back and forth開會跟不同internal parties 協調，確保彼此接收的資訊無誤，最後通過UAT完成系統測試才算是完成一個development cycle。
