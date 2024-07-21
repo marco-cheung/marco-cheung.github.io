@@ -1,7 +1,7 @@
 ---
 title: 《數碼暴龍 LAST EVOLUTION 絆》─ 我們都是「被選中的細路」
 author: Marco Cheung
-date: 2021-05-25 18:00:00 +0800
+date: 2020-05-25 18:00:00 +0800
 categories: [電影欣賞]
 tags: [電影]
 ---
