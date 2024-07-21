@@ -38,4 +38,4 @@ _現時美利酒店外貌(活化後的美利大廈)_
 導賞完結後，酒店還請團友前往Murray Lane嘆番杯本地手工啤。在高壓的繁囂都市中歇息一會再出發，正是香港人的典型境況。
 
 參考：
-{% include embed/{youtube}.html id='{W-fAPq3STh4}' %}
+{% include embed/youtube.html id='W-fAPq3STh4' %}
