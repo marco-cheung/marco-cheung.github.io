@@ -3,7 +3,7 @@ title: 國家都有性?
 author: Marco Cheung
 date: 2024-06-17 18:00:00 +0800
 categories: [學習德文]
-tags: [德文,性]
+tags: [德文]
 ---
 
 上回講到德文所有名詞皆有「性」，令我回想在歌德上A1班學自我介紹。其中一句必學的，就是「我來自香港」(Ich komme aus Hongkong)。咁就奇怪，Hongkong在德文是中性詞，何解毋須寫成aus dem Hongkong (from THE Hong Kong)?
