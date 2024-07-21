@@ -18,14 +18,14 @@ _現時美利酒店外貌(活化後的美利大廈)_
 
 地面大堂的最大特色，是斜向一邊的樓底，上方正是舊時的車路 (現成為熱門打卡位)。門外長有一棵古樹，名為「節果決明」。據導賞員介紹，目前全港只得兩棵，另一棵位於迪欣湖。
 
-![murray-hotel-lobby](/images/murray-hotel-lobby.jpg){: width="300" height="300"}
-![murray-hotel-ramp](/images/murray-hotel-ramp.PNG){: width="300" height="300"}
+![murray-hotel-lobby](/images/murray-hotel-lobby.jpg){: .left width="300" height="300"}
+![murray-hotel-ramp](/images/murray-hotel-ramp.PNG){: .left width="300" height="300"}
 
 酒店外還有一處圓拱形建築，驟眼看平平無奇，原來內有乾坤，正下方連接著酒店按摩池和室內泳池。
 
-![murray-hotel-outside](/images/murray-hotel-outside.png){: width="300" height="300"}
-![murray-hotel-outside2](/images/murray-hotel-outside2.jpg){: width="300" height="300"}
-![murray-hotel-swimming-pool](/images/murray-hotel-swimming-pool.jpg){: width="300" height="300"}
+![murray-hotel-outside](/images/murray-hotel-outside.png){: .left width="300" height="300"}
+![murray-hotel-outside2](/images/murray-hotel-outside2.jpg){: .left width="300" height="300"}
+![murray-hotel-swimming-pool](/images/murray-hotel-swimming-pool.jpg){: .left width="300" height="300"}
 
 導賞員帶領我們上了其中一間酒店房間參觀，其中一個驚喜位是升降機內設有沙發，感覺挺貼心。酒店目前只得336個房間，但卻有8部升降機，原來是因為這裡舊時是政府辦公室，有接近3000人每天返工。上房時，有團友還戲笑大家是上樓睇示範單位呢！
 
