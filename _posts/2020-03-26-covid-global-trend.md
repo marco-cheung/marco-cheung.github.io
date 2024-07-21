@@ -6,9 +6,9 @@ categories: [香港]
 tags: [香港]
 ---
 
-平日新聞聽得多各國疫情確診宗數，但很小橫向用確診佔人口百分比作比對，因此嘗試製作圖表作分析。
+平日新聞聽得多各國疫情確診宗數，但好少橫向用確診佔人口百分比作比對，因此嘗試製作圖表作分析。
 
-![covid-global-trend](/images/covid-global-trend.png){: width="800" height="350"}
+![covid-global-trend](/images/covid-global-trend.png){: width="800" height="500"}
 _每百萬人口確診宗數_
 
 如果放緒全球國家/地區比對每百萬人口確診宗數計算，香港經已位列全球第70 (中國排名68)，單論累計確診宗數更是全球排名第52。
@@ -21,6 +21,6 @@ _每百萬人口確診宗數_
 (截至2020-3-25)
 
 按：沈旭暉面書亦有轉載小弟製作圖表，與有榮焉
-![simon-fb-sharing](/images/simon-fb-sharing.png){: width="800" height="350"}
+![simon-fb-sharing](/images/simon-fb-sharing.png){: width="500" height="400"}
 
 #願平安歸香港
