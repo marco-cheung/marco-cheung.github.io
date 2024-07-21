@@ -6,7 +6,7 @@ categories: [電影欣賞]
 tags: [電影]
 ---
 
-![my-prince-edward](/images/my-prince-edward.jpeg){: width="400" height="450"}
+![my-prince-edward](/images/my-prince-edward.jpg){: width="400" height="450"}
 _《金都》電影海報_
 
 入場前早已知道《金都》電影的主軸圍繞著婚姻，網上又看見不少評論指電影可能令一些人對婚姻的憧憬幻滅，我卻選擇帶著拍拖5年零6個月的女友進場看。老實說，現在想起來真有點玩火。
