@@ -21,6 +21,13 @@ _現時美利酒店外貌(活化後的美利大廈)_
 ![murray-hotel-lobby](/images/murray-hotel-lobby.jpg){: .left width="300" height="300"}
 ![murray-hotel-ramp](/images/murray-hotel-ramp.PNG){: .left width="300" height="300"}
 
+
+
+
+
+
+
+
 酒店外還有一處圓拱形建築，驟眼看平平無奇，原來內有乾坤，正下方連接著酒店按摩池和室內泳池。
 ![murray-hotel-outside](/images/murray-hotel-outside.png){: .left width="300" height="300"}
 ![murray-hotel-outside2](/images/murray-hotel-outside2.jpg){: .left width="300" height="300"}
