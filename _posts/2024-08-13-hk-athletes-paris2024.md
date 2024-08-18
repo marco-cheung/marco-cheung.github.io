@@ -6,10 +6,10 @@ categories: [香港]
 tags: [香港,運動]
 ---
 
-![vivian-kwong](/images/vivian-kwong-olympics-2024.jpg){: width="500" height="400"}
+![vivian-kwong](/images/vivian-kwong-olympics-2024.jpg){: width="400" height="300"}
 _「唔想輸得咁肉酸，無打出香港精神咁放棄🤺」(圖:港協暨奧委會)_
 
-![edgar-cheung](/images/edgar-cheung-olympics-2024.jpg){: width="500" height="400"}
+![edgar-cheung](/images/edgar-cheung-olympics-2024.jpg){: width="400" height="300"}
 _「大家需要唔好放棄，要堅持，就算遇到好多挫折都好，毋忘初心，就算面對不如意，都要堅持到底」(圖:路透社)_
 
 今屆巴黎奧運，港隊合共派出35名運動員參賽，最終奪得兩金兩銅。
