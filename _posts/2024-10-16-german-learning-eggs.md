@@ -51,19 +51,19 @@ _圖片來源：德國聯邦食品及農業部(BMEL)_
 
 # 德國人專門為食蛋使用的工具
 1) 雞蛋鐘 (Eieruhr) <- 用於煮蛋時用的小型計時器 (不是德國人所發明)
-![egg-clock](/images/Eieruhr.jpg){: width="200" height="200"}
+![egg-clock](/images/Eieruhr.jpg){: width="200" height="250"}
 
 2) 蛋殼破裂器 (Eierschalensollbruchstellenverursacher) <- 又一個水蛇春的德文組合字，由Eierschalen(蛋殼)-sollbruchstellen(預定斷裂點)-verursacher(引起者)。YouTuber Liam Carpenter曾拍過[Shorts](https://www.youtube.com/shorts/IEE7Q_e0xMU)分享這件奇特工具，不知道現實有多少德國人真的用來敲破雞蛋殼呢。
 ![eggshell-cracker](/images/Eierschalensollbruchstellenverursacher.jpg){: width="300" height="300"}
 
 3) 蛋杯 (Eierbecher) <- 用於盛起煮好的雞蛋，讓人們可以輕鬆地用勺子挖出蛋黃和蛋白
-![eggcup](/images/eierbecher.jpeg){: width="200" height="200"}
+![eggcup](/images/eierbecher.jpeg){: width="200" height="250"}
 
 4) 切蛋器 (Eierschneider) <- 可以將煮熟的雞蛋切成均勻的片，方便用於沙拉或三明治
-![egg-cutter](/images/eierschneider.jpg){: width="200" height="200"}
+![egg-cutter](/images/eierschneider.jpg){: width="200" height="250"}
 
 5) 蛋清分離器 (Eitrenner) <- 用來將蛋白和蛋黃分開的工具
-![egg-separator](/images/Eitrenner.jpg){: width="200" height="200"}
+![egg-separator](/images/Eitrenner.jpg){: width="200" height="250"}
 
 
 # 與雞蛋有關的片語
