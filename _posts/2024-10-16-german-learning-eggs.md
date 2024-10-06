@@ -53,7 +53,7 @@ _圖片來源：德國聯邦食品及農業部(BMEL)_
 1) 雞蛋鐘 (Eieruhr) <- 用於煮蛋時用的小型計時器 (不是德國人所發明)
 ![egg-clock](/images/Eieruhr.jpg){: width="200" height="200"}
 
-2) 蛋殼破裂器 (Eierschalensollbruchstellenverursacher) <- 又一個水蛇春的德文組合字，由Eierschalen(蛋殼)-sollbruchstellen(預定斷裂點)-verursacher(引起者)。Youtuber Liam Carpenter曾拍過[Shorts](https://www.youtube.com/shorts/IEE7Q_e0xMU)分享這件奇特工具，不知道現實有多少德國人真的用來敲破雞蛋殼呢。
+2) 蛋殼破裂器 (Eierschalensollbruchstellenverursacher) <- 又一個水蛇春的德文組合字，由Eierschalen(蛋殼)-sollbruchstellen(預定斷裂點)-verursacher(引起者)。YouTuber Liam Carpenter曾拍過[Shorts](https://www.youtube.com/shorts/IEE7Q_e0xMU)分享這件奇特工具，不知道現實有多少德國人真的用來敲破雞蛋殼呢。
 ![eggshell-cracker](/images/Eierschalensollbruchstellenverursacher.jpg){: width="300" height="300"}
 
 3) 蛋杯 (Eierbecher) <- 用於盛起煮好的雞蛋，讓人們可以輕鬆地用勺子挖出蛋黃和蛋白
