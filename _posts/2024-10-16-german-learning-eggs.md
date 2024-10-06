@@ -73,4 +73,5 @@ _圖片來源：德國聯邦食品及農業部(BMEL)_
 (XXX ist) nicht das Gelbe vom Ei (not the yellow from the egg)。蛋黃(das Eigelb)被認為是雞蛋中最有營養和美味的部分，當形容事情「不是雞蛋的蛋黃」時，便引申為「不是最好的選擇」或「事情不完美」。
 
 
-**關於聯邦州代號，可上[德國聯邦食品及農業部網站](https://www.bmel.de/DE/themen/ernaehrung/lebensmittel-kennzeichnung/pflichtangaben/eierkennzeichnung.html)查閱。
+
+**關於聯邦州代號，可上[德國聯邦食品及農業部網站](https://www.bmel.de/DE/themen/ernaehrung/lebensmittel-kennzeichnung/pflichtangaben/eierkennzeichnung.html)查閱
