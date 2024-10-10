@@ -6,7 +6,7 @@ categories: [學習德文]
 tags: [德文]
 ---
 
-講起蛋，記得當年在歌德學院學德文的其中一課，老師叫同學們互相問大家早餐吃什麼，原先我其實想講食「烚蛋」，可是當時詞彙量不足，只能簡單講出德文「蛋」的單字 ── Ei。後來上網翻查，才知「烚蛋」德文是hartgekochtes Ei。
+講起蛋，記得當年在歌德學院學德文的其中一課，老師叫同學們互相問大家早餐吃什麼，當時我想講鐘意食「烚蛋」，只是當時詞窮，只能簡單講出德文「蛋」的單字 ── Ei (眾數是Eier)。後來上網翻查，才知「烚蛋」德文是hartgekochtes Ei。
 
 近日看到[一篇文章](https://www.lecker.de/eier-kochen-so-einfach-gehts-50565.html)，分享如何避免在烚蛋過程中破裂，值得好好記錄：
 
@@ -44,9 +44,13 @@ _圖片來源：德國聯邦食品及農業部(BMEL)_
 煎蛋 (das Spiegelei)
 烚蛋 (das gekochte Ei)
 奄列 (das Omelett)
-水波蛋 (das pochierte Ei)
+荷包蛋/水波蛋 (das pochierte Ei)
 流心蛋 (das Wachtelei/ weichgekochtes Ei)
 烚熟蛋 (hartgekochtes Ei)
+
+流心 (flüssig)
+半熟 (wachsweich)
+全熟 (hart gekocht)
 
 
 # 德國人專門為食蛋使用的工具
