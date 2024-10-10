@@ -40,17 +40,17 @@ _圖片來源：德國聯邦食品及農業部(BMEL)_
 # 雞蛋煮法
 不論在德國和香港，雞蛋都是傳統早餐的常見配搭，例如茶餐廳港式早餐多數配炒蛋，德文甚至用Frühstücksei ("breakfast egg")來指稱早餐時吃的雞蛋。常見的煮法包括：
 
-炒蛋 (das Rührei)
-煎蛋 (das Spiegelei)
-烚蛋 (das gekochte Ei)
-奄列 (das Omelett)
-荷包蛋/水波蛋 (das pochierte Ei)
-流心蛋 (das Wachtelei/ weichgekochtes Ei)
-烚熟蛋 (hartgekochtes Ei)
+- 炒蛋 (das Rührei)
+- 煎蛋 (das Spiegelei)
+- 烚蛋 (das gekochte Ei)
+- 奄列 (das Omelett)
+- 荷包蛋/水波蛋 (das pochierte Ei)
+- 流心蛋 (das Wachtelei/ weichgekochtes Ei)
+- 烚熟蛋 (hartgekochtes Ei)
 
-流心 (flüssig)
-半熟 (wachsweich)
-全熟 (hart gekocht)
+- 流心 (flüssig)
+- 半熟 (wachsweich)
+- 全熟 (hart gekocht)
 
 
 # 德國人專門為食蛋使用的工具
