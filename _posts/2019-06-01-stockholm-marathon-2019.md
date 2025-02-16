@@ -1,5 +1,5 @@
 ---
-title: 奔走大城小島 -- 斯德哥爾摩馬拉松
+title: 斯德哥爾摩馬拉松2019 - 奔走大城小島
 author: Marco Cheung
 date: 2019-06-01 18:00:00 +0800
 categories: [跑步]
