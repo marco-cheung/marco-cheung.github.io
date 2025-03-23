@@ -25,10 +25,10 @@ _由侯煥玲飾演的包租婆Susie，可說是整部戲的靈魂，令這班�
 
 今天的我，我會說比十年前的我，心境上更覺年輕，一方面是因為身體年齡(fitness age)感覺更顯後生(目前Garmin錶寫是22.5歲，比真實年齡還年輕半歲，哈哈)，同時這幾年認清了中長期目標，同時見証著自己付出的努力有所回報 (身體始終是最誠實)，一切皆因對未來生活有所盼望。或許這就是青春吧。
 
-"Life needs to be more than just solving problems every day.
- You need to wake up and be excited about the future." – Elon Musk
+*"Life needs to be more than just solving problems every day.*
+ *You need to wake up and be excited about the future."* – Elon Musk
 
-且援引電影最後一段獨白作結：
+且援引電影最後一幕的獨白作結：
 「青春猶如方糖，對嗎？有稜角，易碎的，荒唐的，甜蜜的...
 這種甜蜜是要親身用舌尖的熱量體驗才能溶化，才能品嚐...你總不能隔岸觀火。
 人生總有這麼的一個階段，一個做什麼都覺得快樂的階段，一個說什麼也真誠的階段，他們可笑也可愛，笑他們皆因他們曾經荒唐過，愛他們因為我們也曾甜蜜過。」 
