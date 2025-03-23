@@ -2,8 +2,8 @@
 title: 六樓后座的時光
 author: Marco Cheung
 date: 2024-01-21 18:00:00 +0800
-categories: [港產片]
-tags: [港產片]
+categories: [電影欣賞]
+tags: [電影]
 ---
 
 當聽見Spotify自訂playlist上林嘉欣的「六樓后座」，總有種衝動想翻睇這套2003年上畫的港產片。
