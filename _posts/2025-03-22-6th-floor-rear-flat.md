@@ -8,7 +8,7 @@ tags: [電影]
 
 當聽見Spotify自訂playlist上林嘉欣的「六樓后座」，總有種衝動想翻睇這套2003年上畫的港產片。
 
-![6th_floor_rear_flat_poster](/6th_Floor_Rear_Flat_poster.jpg){: width="300" height="300"}
+![6th-floor-rear-flat-poster](/6th_Floor_Rear_Flat_poster.jpg){: width="300" height="300"}
 
 這套戲圍繞著六個年輕人住在六樓后座單位的追夢故事。在一次圍威喂玩「真心話大冒險」(Truth or Dare)的偶然機會下，六人一同大膽接受了「食屎挑戰」：一年內需實現今天各自許下的願望，否則需接受懲罰 (食包租婆Susie的屎)。
 
