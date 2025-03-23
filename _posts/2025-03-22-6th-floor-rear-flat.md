@@ -8,7 +8,7 @@ tags: [電影]
 
 當聽見Spotify自訂playlist上林嘉欣的「六樓后座」，總有種衝動想翻睇這套2003年上畫的港產片。
 
-![6th-floor-rear-flat-poster](/sixth-floor-rear-flat-poster.jpg){: width="300" height="300"}
+![sixth-floor-rear-flat-poster](/sixth-floor-rear-flat-poster.jpg){: width="300" height="300"}
 
 這套戲圍繞著六個年輕人住在六樓后座單位的追夢故事。在一次圍威喂玩「真心話大冒險」(Truth or Dare)的偶然機會下，六人一同大膽接受了「食屎挑戰」：一年內需實現今天各自許下的願望，否則需接受懲罰 (食包租婆Susie的屎)。
 
@@ -16,7 +16,7 @@ tags: [電影]
 
 最大感觸的一幕，是包租婆Susie對著年輕人概嘆：「都唔知你地呢班後生仔搞乜...一時一樣，古靈精怪，都知道你地班後生仔唔會食屎架啦，講就天下無敵，食就有心無力...香港地就係死係你地手上。」
 
-![susie](/sixth-floor-rear-flat-susie.jpeg){: width="300" height="250"}
+![sixth-floor-rear-flat-susie](/sixth-floor-rear-flat-susie.jpeg){: width="300" height="250"}
 _由侯煥玲飾演的包租婆Susie，可說是整部戲的靈魂，令這班曾經荒唐、一事無成的年輕人從避世窩居中得到解放_
 
 回想自己十年前剛大學畢業，當時還是跟家人同住，一開頭曾經想過畢業做西廚，並成功在American Club獲得聘書，不過最後因為家人強烈反對而turn down了offer。當年的我，基本上做所有事都是興趣行先 (例如身邊不少同學暑假Sem break都忙於找Summer Intern，我卻選擇了參加大專生軍事體驗營，入住粉嶺新圍軍營中捱苦)，甚至有種嫌錢腥的心態，這或許跟大學讀社會政策本科時所建立的人生價值觀不無關係，在此不詳談了。
