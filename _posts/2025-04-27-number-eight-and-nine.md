@@ -24,13 +24,15 @@ tags: [電影]
     </iframe>
 </div>
 
-<p>另一個名為「無限猴子定理」(Infinite monkey theorem)思想實驗同樣有趣：如果將一隻黑猩猩放在打字機前，只要給予無限時間讓它隨機打字，最終它能夠打出整套莎士比亞著作《哈姆雷特》。</p>
+
+另一個名為「無限猴子定理」(Infinite monkey theorem)思想實驗同樣有趣：如果將一隻黑猩猩放在打字機前，只要給予無限時間讓它隨機打字，最終它能夠打出整套莎士比亞著作《哈姆雷特》。
 
 也許無限在我們身處的現實世界中不曾存在，然而平行時空/多元宇宙確實為我們帶來無限想像，電影《奇異女俠玩救宇宙》正是這類題材下的代表作。諷刺的是，天才如愛因斯坦早已看透人類愚蠢的無限："Two things are infinite: the universe and human stupidity; and I’m not sure about the universe."
 
 這不就是「人蠢無藥醫」嗎？
 
-<p>(2) 近日在一個科普Podcast[「搞乜咁科學」(GMG Science)](https://www.instagram.com/gmgscience/)聽到主持討論進位制，其中談到「9」除了是十進位制中最大的自然數，在多國語言中更含有new意思，據說這與記數法有關。</p>
+
+(2) 近日在一個科普Podcast[「搞乜咁科學」(GMG Science)](https://www.instagram.com/gmgscience/)聽到主持討論進位制，其中談到「9」除了是十進位制中最大的自然數，在多國語言中更含有new意思，據說這與記數法有關。
 
 古代印歐人(Proto-Indo-European)從前用手指罅計數，而兩隻手得八個手指罅，數到「9」時象徵著新開始，因此「九」和「新」在概念上有連結。
 
