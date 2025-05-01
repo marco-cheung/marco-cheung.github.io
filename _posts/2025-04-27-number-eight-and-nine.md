@@ -15,7 +15,7 @@ tags: [電影]
 
 相對中國藝術展現的「8」字作為文化符號的意念，數字「8」的橫向造形所象徵的「無限」(∞) 更是引人入勝。早於1924年，德國數學家希爾伯特(David Hilbert)提出「希爾伯特旅館悖論」(Hilbert's Paradox of the Grand Hotel)的思想實驗，生動地說明無限集合(set)的可延展性和可數無限(countable infinity)的反直覺特性：例如即使一間「無限酒店」有無限咁多間房都住滿了客，即時酒店門外有一架載有無限旅客的旅遊巴，只要透過將第N間房間住客往後移到第2N號房，就能分配每位新客入住其餘單人房，說明無限加倍 (甚至無限乘無限)仍然跟無限(∞)一樣大。不過有些無限 (不可數無限uncountable infinity)確實大過某些無限(countable infinity)，由於推論上較複雜，就此打住。
 
-{% include youtube.html id='Uj3_KqkI9Zo' %}
+{% include youtube.html id="Uj3_KqkI9Zo" %}
 
 另一個名為「無限猴子定理」(Infinite monkey theorem)思想實驗同樣有趣：如果將一隻黑猩猩放在打字機前，只要給予無限時間讓它隨機打字，幾乎必然可以打出任何特定的文字組合，例如莎士比亞經典《哈姆雷特》。
 
