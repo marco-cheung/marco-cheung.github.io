@@ -17,7 +17,7 @@ tags: [歷史]
 - „**Das ungeheuerliche Ausmaß der deutschen Verbrechen ist bis heute nicht allen bewusst. Oder schlimmer noch: Viele wollen sich damit gar nicht mehr beschäftigen. Dieser Tendenz entgegenzuwirken - auch dazu dient das Gedenken am 8. Mai.**“
 (時至今日，並非每個人都知道德國所犯下的滔天罪行。更糟的是，許多人不再願意面對它。5 月 8 日的紀念活動也是為了抵制這種傾向。)
 
-- **„Am 80. Jahrestag des Kriegsendes geht es ums Erinnern - und gleichzeitig auch um unser aller Auftrag: Wer befreit wurde, der ist auch verpflichtet, zu verteidigen: die Freiheit.**“
+- „**Am 80. Jahrestag des Kriegsendes geht es ums Erinnern - und gleichzeitig auch um unser aller Auftrag: Wer befreit wurde, der ist auch verpflichtet, zu verteidigen: die Freiheit.**“
 (戰爭結束 80 周年紀念是關於緬懷 - 同時也是關於我們所有人的使命：那些獲得解放的人也有義務捍衛自由。)
 
 ![Gedenkstunde](/images/gedenkstunde_8_mai_bild_plenum.jpeg){: width="400" height="400"}
