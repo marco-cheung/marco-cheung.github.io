@@ -51,5 +51,7 @@ tags: [歷史]
 
 
 資料參考:
+
 (1) https://www.bundestag.de/parlament/praesidium/reden/2025/20250508-1064798
+
 (2) https://www.bundestag.de/dokumente/textarchiv/2025/kw19-de-gedenkstunde-rede-steinmeier-gesprochenes-wort-1064886
