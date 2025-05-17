@@ -10,7 +10,7 @@ tags: [歷史]
 
 之所以將這套電影跟德國在二戰在歐洲結束八十周年事件混為一談，皆因兩者帶出的訊息十分類近：那就是當事人(「加害者」)一直背負著歷史罪責，唯有坦承面對過去犯下的過失，方能走出陰霾。
 
-今年五月八日，德國聯邦議院議長Julia Klöckner在國會發表的歡迎辭(Begrüßungsansprache)中，一方面回顧德國納粹犯下的戰爭罪行，同時提醒大眾需抵禦反猶主義勢力，避免重蹈覆轍：
+今年五月八日，德國聯邦議院議長Julia Klöckner在國會舉行的二戰追悼會中發表歡迎辭，回顧德國納粹犯下的戰爭罪行的同時，更提醒大眾需要共同抵禦反猶主義勢力，避免重蹈覆轍：
 
 - „**Das ungeheuerliche Ausmaß der deutschen Verbrechen ist bis heute nicht allen bewusst. Oder schlimmer noch: Viele wollen sich damit gar nicht mehr beschäftigen. Dieser Tendenz entgegenzuwirken - auch dazu dient das Gedenken am 8. Mai.**“
 (時至今日，並非每個人都知道德國所犯下的滔天罪行。更糟的是，許多人不再願意面對它。5 月 8 日的紀念活動也是為了抵制這種傾向。)
@@ -18,6 +18,7 @@ tags: [歷史]
 - **„Am 80. Jahrestag des Kriegsendes geht es ums Erinnern - und gleichzeitig auch um unser aller Auftrag: Wer befreit wurde, der ist auch verpflichtet, zu verteidigen: die Freiheit.**“
 (戰爭結束 80 周年紀念是關於緬懷 - 同時也是關於我們所有人的使命：那些獲得解放的人也有義務捍衛自由。)
 
+![Gedenkstunde](/images/gedenkstunde_8_mai_bild_plenum.jpeg){: width="400" height="400"}
 
 其後聯邦總統Frank-Walter Steinmeier發表的紀念演講(Gedenkrede)
 
