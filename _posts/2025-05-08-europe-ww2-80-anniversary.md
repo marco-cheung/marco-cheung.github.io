@@ -10,7 +10,7 @@ tags: [歷史]
 
 之所以將這套電影跟德國在二戰在歐洲結束八十周年事件混為一談，皆因兩者帶出的訊息十分類近：那就是當事人(「加害者」)一直背負著歷史罪責，唯有坦承面對過去犯下的過失，方能走出陰霾。
 
-今年五月八日，德國聯邦議院議長Julia Klöckner在國會舉行的二戰追悼會中發表歡迎辭，回顧德國納粹犯下的戰爭罪行的同時，更提醒大眾需要共同抵禦反猶主義勢力，避免重蹈覆轍：
+今年五月八日，德國聯邦議院議長Julia Klöckner在國會舉行的二戰追悼會中發表歡迎辭，回顧德國納粹犯下的戰爭罪行的同時，亦提醒大眾需要共同抵禦反猶主義勢力，避免重蹈覆轍：
 
 - „**Das ungeheuerliche Ausmaß der deutschen Verbrechen ist bis heute nicht allen bewusst. Oder schlimmer noch: Viele wollen sich damit gar nicht mehr beschäftigen. Dieser Tendenz entgegenzuwirken - auch dazu dient das Gedenken am 8. Mai.**“
 (時至今日，並非每個人都知道德國所犯下的滔天罪行。更糟的是，許多人不再願意面對它。5 月 8 日的紀念活動也是為了抵制這種傾向。)
@@ -20,9 +20,9 @@ tags: [歷史]
 
 ![Gedenkstunde](/images/gedenkstunde_8_mai_bild_plenum.jpeg){: width="400" height="400"}
 
-其後聯邦總統Frank-Walter Steinmeier發表的紀念演講(Gedenkrede)
+同場聯邦總統Frank-Walter Steinmeier亦發表了紀念演講(Gedenkrede)，重申德國捍衛自由、民主、人權的決心：
 
-### (1)承認德國歷史責任
+### (1)承認德國在二戰犯下的歷史罪責
 - „**Es waren Deutsche, die diesen verbrecherischen Krieg entfesselt und ganz Europa in den Abgrund gerissen haben. Es waren Deutsche, die das Menschheitsverbrechen der Shoah begangen haben. Und es waren Deutsche, die nicht willens und nicht fähig waren, selber das Joch des NS-Regimes abzuwerfen.**“
 (正是德國人，發動了這場罪惡的戰爭，並將整個歐洲拖入了深淵。正是德國人，犯下了納粹大屠殺這一反人類罪行。正是德國人，既不願意也沒有能力自己擺脫納粹政權的枷鎖。)
 
@@ -32,8 +32,8 @@ tags: [歷史]
 
 
 ### (3) 呼籲德國維護民主和保障自由，並支持烏克蘭爭取自由
-- „**Der Krieg gegen die Ukraine ist eben keine Fortsetzung des Kampfes gegen den Faschismus. Putins Angriffskrieg, sein Feldzug gegen ein freies, demokratisches Land, hat nichts gemein mit dem Kampf gegen die nationalsozialistische Gewaltherrschaft im Zweiten Weltkrieg. Am Ende ist diese Geschichtslüge nichts als eine Verbrämung imperialen Wahns, schweren Unrechts und schwerster Verbrechen!**“
-(對烏克蘭的戰爭根本不是反法西斯鬥爭的延續。普丁的侵略戰爭，他對一個自由民主國家的攻擊，與二戰期間反抗納粹暴政的鬥爭毫無共同之處。說到底，這個歷史謊言不過是帝國瘋狂、嚴重不公和最嚴重罪行的掩飾！)
+- „**Der Krieg gegen die Ukraine ist eben keine Fortsetzung des Kampfes gegen den Faschismus. Putins Angriffskrieg, sein Feldzug gegen ein freies, demokratisches Land, hat nichts gemein mit dem Kampf gegen die nationalsozialistische Gewaltherrschaft im Zweiten Weltkrieg.**“
+(對烏克蘭的戰爭根本不是反法西斯鬥爭的延續。普丁的侵略戰爭，他對一個自由民主國家的攻擊，與二戰期間反抗納粹暴政的鬥爭毫無共同之處。)
 
 - „**Ließen wir die Ukraine schutz- und wehrlos zurück, hieße das, meine Damen und Herren, die Lehren des 8. Mai zu verraten!**“
 (如果我們讓烏克蘭失去防禦能力，女士們、先生們，這意味著背叛了 5 月 8 日的教訓！)
@@ -42,10 +42,13 @@ tags: [歷史]
 - „**Meine feste Überzeugung ist: Wer sich der Vergangenheit stellt, der verzichtet nicht auf Zukunft. Unsere Geschichte ist kein Gefängnis, in das wir eingesperrt sind. Sie ist kein Ballast, auch nicht für uns Nachgeborene. Sie ist – im Gegenteil – mit all ihren Höhen und Tiefen ein riesiger, ein kostbarer Erfahrungsschatz. Sie ist der Schlüssel für uns, unsere Kinder, unsere Enkel, um die Krisen der Gegenwart und auch der Zukunft zu meistern. Und deshalb ist es so wichtig, gerade heute, die Erfahrung von Diktatur und Krieg, aber genauso die von Wiederaufbau und Versöhnung weiterzugeben – von Generation zu Generation.**“
 (我的堅定信念是：直面過去的人不會放棄未來。我們的歷史並不是一座囚禁我們的監獄。這不是一種負擔，即使對我們這些後來出生的人來說也不是。相反，儘管經歷了起起伏伏，它卻是一個巨大的、寶貴的經驗寶庫。它是我們、我們的子孫後代克服當前和未來危機的關鍵。這就是為什麼，尤其是在今天，將獨裁和戰爭的經驗以及重建與和解的經驗一代代傳承下去是如此重要。)
 
+- „**Freiheit ist nicht für alle Zeit garantiert. Heute müssen wir deshalb nicht mehr fragen: Hat der 8. Mai uns befreit? Die Antwort ist gegeben, und sie bleibt gültig. Aber wir müssen fragen: Wie können wir frei bleiben?**“
+(自由並不能永遠得到保障。今天我們不再需要問：五八解放了我們嗎？答案已經給出並且仍然有效。但我們必須問：我們如何保持自由？)
+
 - „**Ich bin überzeugt – heute mehr denn je –: Wir haben so vieles gelernt aus unserer Geschichte, was uns zu dem gemacht hat, was wir heute sind. Geben wir nicht leichtfertig preis, was uns stark gemacht hat! Flüchten wir nicht aus unserer Geschichte. Werfen wir ihre Lehren gerade dann nicht über Bord, wenn sie uns etwas abverlangen, meine Damen und Herren. Das wäre feige und falsch zugleich!**“
 (我今天比以往任何時候都更堅信，我們從歷史中學到了很多東西，才成就了今天的我們。我們不要輕易放棄那些讓我們變得強大的東西！我們不要逃避我們的歷史。女士們，先生們，我們不要拋棄他們的教誨，特別是當他們對我們提出要求的時候。這樣做既懦弱又錯誤！)
 
 
-Reference:
+資料參考:
 (1) https://www.bundestag.de/parlament/praesidium/reden/2025/20250508-1064798
 (2) https://www.bundestag.de/dokumente/textarchiv/2025/kw19-de-gedenkstunde-rede-steinmeier-gesprochenes-wort-1064886
