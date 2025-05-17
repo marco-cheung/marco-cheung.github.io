@@ -22,7 +22,7 @@ tags: [歷史]
 
 ![Gedenkstunde](/images/gedenkstunde_8_mai_bild_plenum.jpeg){: width="400" height="400"}
 
-同場聯邦總統Frank-Walter Steinmeier亦發表了紀念演講(Gedenkrede)，由疏理歷史記憶一直談到當前俄烏戰爭，主張德國堅守捍衛自由、民主、人權的核心價值：
+同場聯邦總統Frank-Walter Steinmeier亦發表了紀念演講(Gedenkrede)，由疏理歷史記憶一直談到當前俄烏戰爭，主張德國堅守捍衛自由、民主、人權的核心價值。自己對演講中較深刻的有以下四點：
 
 ### (1)承認德國在二戰犯下的歷史罪責
 - „**Es waren Deutsche, die diesen verbrecherischen Krieg entfesselt und ganz Europa in den Abgrund gerissen haben. Es waren Deutsche, die das Menschheitsverbrechen der Shoah begangen haben. Und es waren Deutsche, die nicht willens und nicht fähig waren, selber das Joch des NS-Regimes abzuwerfen.**“
