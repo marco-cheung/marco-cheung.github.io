@@ -12,15 +12,6 @@ tags: [歷史]
 
 今年五月八日，德國聯邦議院議長Julia Klöckner在國會發表的歡迎辭(Begrüßungsansprache)中，一方面回顧德國納粹犯下的戰爭罪行，同時提醒大眾需抵禦反猶主義勢力，避免重蹈覆轍：
 
-<div class="iframe-container">
-    <iframe
-        src="https://www.youtube.com/watch?v=x8gorJ2dxwo"
-        frameborder="0"
-        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen>
-    </iframe>
-</div>
-
 - „Das ungeheuerliche Ausmaß der deutschen Verbrechen ist bis heute nicht allen bewusst. Oder schlimmer noch: Viele wollen sich damit gar nicht mehr beschäftigen. Dieser Tendenz entgegenzuwirken - auch dazu dient das Gedenken am 8. Mai.“
 (時至今日，並非每個人都知道德國所犯下的滔天罪行。更糟的是，許多人不再願意面對它。5 月 8 日的紀念活動也是為了抵制這種傾向。)
 
@@ -29,7 +20,6 @@ tags: [歷史]
 
 
 其後聯邦總統Frank-Walter Steinmeier發表的紀念演講(Gedenkrede)
-![frank-walter-steinmeier](/images/frank-walter-steinmeier.png){: width="300" height="300"}
 
 # (1)承認德國歷史責任
 - Es waren Deutsche, die diesen verbrecherischen Krieg entfesselt und ganz Europa in den Abgrund gerissen haben. Es waren Deutsche, die das Menschheitsverbrechen der Shoah begangen haben. Und es waren Deutsche, die nicht willens und nicht fähig waren, selber das Joch des NS-Regimes abzuwerfen.
