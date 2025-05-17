@@ -1,7 +1,7 @@
 ---
 title: 德國在二戰歐洲結束「八十周年」的反思
 author: Marco Cheung
-date: 2025-05-08:00:00 +0800
+date: 2025-05-08 18:00:00 +0800
 categories: [德國 歷史]
 tags: [歷史]
 ---
