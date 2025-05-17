@@ -8,7 +8,7 @@ tags: [歷史]
 
 早陣子看了張家輝執導的港產片《贖夢》(Peg O’ My Heart)，劇情講述張家輝飾演的角色蔡辛強，是一個患有精神錯亂的士司機，因老婆一時貪婪而在金融海嘯來襲時揹下一身債，不惜運用自己當時在股票行的職權，挪用好友給予的資金來還債，結果不但連累老死輸身家，更導致對方全家燒炭自殺。事件令蔡辛強和他的老婆精神崩潰，一直背負孽債而無法安睡，每次入睡時更會在不同恐怖夢境中追殺，直至一名年輕精神科醫生將勾住他心中的夢魘拆解......
 
-![peg-o-my-heart](/images/peg-o-my-heart-hk-movie.jpg){: width="400" height="400"}
+![peg-o-my-heart](/images/peg-o-my-heart-hk-movie.jpg){: width="300" height="350"}
 
 之所以將這套電影跟德國在二戰在歐洲結束八十周年事件混為一談，皆因兩者帶出的訊息十分類近：那就是當事人(「加害者」)一直背負著歷史罪責，唯有坦承面對過去犯下的過失，方能走出陰霾。
 
@@ -20,7 +20,7 @@ tags: [歷史]
 - „**Am 80. Jahrestag des Kriegsendes geht es ums Erinnern - und gleichzeitig auch um unser aller Auftrag: Wer befreit wurde, der ist auch verpflichtet, zu verteidigen: die Freiheit.**“
 (戰爭結束 80 周年紀念是關於緬懷 - 同時也是關於我們所有人的使命：那些獲得解放的人也有義務捍衛自由。)
 
-![Gedenkstunde](/images/gedenkstunde_8_mai_bild_plenum.jpeg){: width="400" height="400"}
+![Gedenkstunde](/images/gedenkstunde_8_mai_bild_plenum.jpg){: width="400" height="400"}
 
 同場聯邦總統Frank-Walter Steinmeier亦發表了紀念演講(Gedenkrede)，由疏理歷史記憶一直談到當前俄烏戰爭，主張德國堅守捍衛自由、民主、人權的核心價值。自己對演講中較深刻的有以下四點：
 
