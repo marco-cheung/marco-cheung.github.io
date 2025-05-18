@@ -48,7 +48,7 @@ Vergangenheitsbewältigung是自己很喜歡的其中一個德文字，直譯解
 - „**Freiheit ist nicht für alle Zeit garantiert. Heute müssen wir deshalb nicht mehr fragen: Hat der 8. Mai uns befreit? Die Antwort ist gegeben, und sie bleibt gültig. Aber wir müssen fragen: Wie können wir frei bleiben?**“
 (自由並不能永遠得到保障。今天我們不再需要問：五八解放了我們嗎？答案已經給出並且仍然有效。但我們必須問：我們如何保持自由？)
 
-最後想套用1985年時任德國聯邦總統魏茨澤克(Weizsäcker)在國會發表二戰結束週年演講的一句話：
+最後想引用1985年時任德國聯邦總統魏茨澤克(Weizsäcker)在國會發表二戰結束週年演講的一句話：
 „**Wer aber vor der Vergangenheit die Augen verschließt, wird blind für die Gegenwart.**“ (那些閉着眼睛面對過去的人，也會對現在變得盲目。)
 
 二戰的歷史悲劇，很大程度是普通人作出的「平庸之惡」而推波助瀾。如今生於亂世中，正好提醒我們要保持批判思維，擇善而固執。
