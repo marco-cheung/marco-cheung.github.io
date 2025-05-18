@@ -10,7 +10,9 @@ tags: [歷史]
 
 ![peg-o-my-heart](/images/peg-o-my-heart-hk-movie.jpg){: width="300" height="350"}
 
-之所以將這套電影跟德國在二戰在歐洲結束八十周年事件混為一談，皆因兩者帶出的訊息十分類近：那就是當事人(「加害者」)一直背負著歷史罪責，唯有坦承面對過去犯下的過失，方能走出陰霾。
+之所以將這套電影跟德國在二戰在歐洲結束八十周年事件混為一談，皆因兩者蘊含的訊息十分類近：那就是當事人(「施害者」)一直背負著歷史罪責，既然不能與過去劃清界線，那只有正視並坦承面對過去犯下的過失，好好處理自身的歷史責任，方能獲得真正解放。
+
+Vergangenheitsbewältigung是自己很喜歡的其中一個德文字，直譯解作「克服過去」。承認歷史只是走出過去陰霾的第一步，下一步是勇敢還原歷史真相，作出真誠道歉和反省，從而在未來得以重回正軌。
 
 今年五月八日，德國聯邦議院議長Julia Klöckner在國會舉行的二戰追悼會中發表歡迎辭，回顧德國納粹暴政犯下戰爭罪行的同時，不忘提醒大眾需要共同抵禦反猶主義勢力，避免重蹈覆轍：
 
@@ -22,7 +24,7 @@ tags: [歷史]
 
 ![Gedenkstunde](/images/gedenkstunde_8_mai_bild_plenum.jpg){: width="450" height="300"}
 
-同場聯邦總統Frank-Walter Steinmeier亦發表了紀念演講(Gedenkrede)，由疏理歷史記憶一直談到當前俄烏戰爭，主張德國堅守捍衛自由、民主、人權的核心價值。至於自己對演講內容較深刻的則有以下四點：
+同場聯邦總統Frank-Walter Steinmeier亦發表了紀念演講(Gedenkrede)，由疏理歷史記憶一直談到當前俄烏戰爭，並主張德國堅守捍衛自由、民主、人權的核心價值：
 
 ### (1)承認德國在二戰犯下的歷史罪責
 - „**Es waren Deutsche, die diesen verbrecherischen Krieg entfesselt und ganz Europa in den Abgrund gerissen haben. Es waren Deutsche, die das Menschheitsverbrechen der Shoah begangen haben. Und es waren Deutsche, die nicht willens und nicht fähig waren, selber das Joch des NS-Regimes abzuwerfen.**“
@@ -46,8 +48,10 @@ tags: [歷史]
 - „**Freiheit ist nicht für alle Zeit garantiert. Heute müssen wir deshalb nicht mehr fragen: Hat der 8. Mai uns befreit? Die Antwort ist gegeben, und sie bleibt gültig. Aber wir müssen fragen: Wie können wir frei bleiben?**“
 (自由並不能永遠得到保障。今天我們不再需要問：五八解放了我們嗎？答案已經給出並且仍然有效。但我們必須問：我們如何保持自由？)
 
-- „**Ich bin überzeugt – heute mehr denn je –: Wir haben so vieles gelernt aus unserer Geschichte, was uns zu dem gemacht hat, was wir heute sind. Geben wir nicht leichtfertig preis, was uns stark gemacht hat! Flüchten wir nicht aus unserer Geschichte. Werfen wir ihre Lehren gerade dann nicht über Bord, wenn sie uns etwas abverlangen, meine Damen und Herren. Das wäre feige und falsch zugleich!**“
-(我今天比以往任何時候都更堅信，我們從歷史中學到了很多東西，才成就了今天的我們。我們不要輕易放棄那些讓我們變得強大的東西！我們不要逃避我們的歷史。女士們，先生們，我們不要拋棄他們的教誨，特別是當他們對我們提出要求的時候。這樣做既懦弱又錯誤！)
+最後想套用1985年時任德國聯邦總統魏茨澤克(Weizsäcker)在國會發表二戰結束週年演講的一句話：
+„**Wer aber vor der Vergangenheit die Augen verschließt, wird blind für die Gegenwart.**“ (那些閉着眼睛面對過去的人，也會對現在變得盲目。)
+
+二戰的歷史悲劇，很大程度是普通人作出的「平庸之惡」而推波助瀾。如今生於亂世中，正好提醒我們要保持批判思維，擇善而固執。
 
 
 資料參考:
