@@ -14,7 +14,7 @@ tags: [德文]
 
 <u>安排預約 (einen Termin vereinbaren)</u>
 - Ich hätte gern (für Montag, den 18. März um 16 Uhr,) einen Termin.
-- Ich wurde gern einen Termin vereinbaren/ ausmachen. Ist am 18. März noch etwas frei?
+- Ich wurde gern einen Termin vereinbaren. Ist am 18. März noch etwas frei?
 - Hätten Sie vielleicht am Montag, den 10. März um 16 Uhr Zeit, um über unseren Reiseplan zu sprechen?
 - Wäre es Ihnen möglich, am 10.03. zu uns zu kommen, um über den Vertrag zu gehen?
 - Würden Sie am 18.03. um 16:30 Uhr bei uns vorbeikommen, um über das neue Projekt zu besprechen?
@@ -54,7 +54,8 @@ tags: [德文]
 - Hey/Hallo, hast/hättest du morgen Zeit?  (Warte kurz, ich schaue in meinem Kalender nach.)
 - Hättest du morgen Zeit und Lust, dich mit mir auf eine Kaffee zu treffen?
 - Hättest du auch am 18.03. Zeit?
-- Sollen wir uns morgen im Park treffen?  *=> Natürlich! Morgen um 10 Uhr im Park klingt super!*
+- Sollen/Wollen wir uns morgen im Park treffen?  *=> Natürlich! Morgen um 10 Uhr im Park klingt super!*
+- Sollen wir einen Termin für die Nachuntersuchung meiner Katze ausmachen?  *=> Natürlich. Ich schaue kurz in unseren Kalender.*
 - Passt dir auch Samstag um 15 Uhr?  *=> Samstag, 15 Uhr passt.* / *Der Termin geht in Ordnung. Vielen Dank.*
 - Passt dir der 13.03. um 17 Uhr?  *=> Der 13.03. passt mir gut, danke.* / *Der 13.03. passt mir nicht. Können wir einen anderen Termin ausmachen?* 
 - Was hältst du davon, wenn wir uns morgen um 10 Uhr (zum Laufen/ zum Frühstücken/ in der Stadt) treffen?
